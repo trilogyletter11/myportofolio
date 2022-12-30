@@ -1,0 +1,3 @@
+# my-portofolio project
+
+## create simple portofolio and contact person web using JS, HTML and CSS ...
