@@ -38,8 +38,9 @@ $(document).ready(function () {
     strings: [
       "Sembagi Arutala",
       "Amor Fati",
+      "Sonder",
+      "Jouska",
       "Eccedentesiast",
-      "Sonder - Jouska",
     ],
     typeSpeed: 100,
     backSpeed: 60,

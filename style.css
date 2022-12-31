@@ -209,7 +209,7 @@ section .title::after {
 }
 
 .home .home-content .text-3 {
-  font-size: 15px;
+  font-size: 25px;
   margin: 5px 0;
   font-family: "Carter One", cursive;
   text-shadow: 1px 2px 3px #000;
@@ -217,7 +217,7 @@ section .title::after {
 
 .home .home-content .text-3 span {
   font-size: 25px;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
   color: #fafafa;
   font-weight: bold;
 }
