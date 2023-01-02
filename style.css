@@ -268,7 +268,7 @@ section .title::after {
 }
 
 .about .about-content .right p {
-  text-align: left;
+  text-align: center;
 }
 
 .typing-2 {
